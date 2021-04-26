@@ -13,6 +13,6 @@
 
 ***VISITOR COUNT***
 
-![Visitor Count](https://profile-counter.glitch.me/gndec-yjs/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{gndec-yjs}/count.svg)
 
 ---
