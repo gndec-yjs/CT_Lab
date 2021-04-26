@@ -1,5 +1,5 @@
 # Concrete Testing Lab
 
-- **[List of Experiments](List.md}**
+- **[List of Experiments](List.md)**
 - **Lab Manual**
 - **[Video Demonstration](Videos/Videos.md)**
