@@ -5,6 +5,7 @@
 ## Concrete
 
 - **[IS 456 : 2000 - Indian Standard: Plain and Reinforced Concrete - Code of Practice](Codes/IS_456.pdf)**
+- **[IS 1199 : 1959 - Indian Standard: Methods of Sampling & Analysis of Concrete](Codes/IS_1199_1959.pdf)**
 
 ## Concrete Mix Design
 
