@@ -1,6 +1,6 @@
 # Concrete Testing Lab
 
-| **[Home](README.md)** | **[Lab Experiments](Experiments.md)** | **[IS Codes](Codes.md)** | **[Contact](Contact.md)** |
+| **[Home](README.md)** | **[List of Experiments](List.md)** | **[Lab Manual](Lab_Manual.md)** | **[IS Codes](Codes.md)** | **[Video Demonstration](Videos.md)** | **[Contact](Contact.md)** |
 
 
 ![Lab](/Images/CTL.jpeg)
