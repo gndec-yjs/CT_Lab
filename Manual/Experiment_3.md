@@ -6,6 +6,7 @@
 
 **Right-hand Side (RHS - single-lined page):**
 
+Students must write the following in neat handwriting:
 - Objective  
 - IS Code  
 - Apparatus Required  
@@ -16,6 +17,7 @@
 
 **Left-hand Side (LHS - plain page):**
 
+Students must include:
 - Objective  
 - Labelled Diagram (Le-Chatelier apparatus setup) or paste relevant photos  
 - Observations and Calculations  
