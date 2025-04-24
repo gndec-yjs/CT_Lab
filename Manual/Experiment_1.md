@@ -7,7 +7,8 @@
 **Right-hand Side (RHS - single-lined page)**:  
 
 Students must write the following in neat handwriting:
-- Objective  
+- Objective
+- IS Code
 - Apparatus Required  
 - Theory  
 - Procedure  
@@ -30,6 +31,11 @@ To determine the fineness of a cement sample by sieving it through a 90-micron I
 
 ---
 
+### IS Code:
+**IS 4031 (Part 1): 1996 (Reaffirmed 2021)**  
+*Method of Physical Tests for Hydraulic Cement – Part 1: Fineness by Dry Sieving*
+
+---
 ## Apparatus Required
 
 - 90-micron IS sieve (mesh opening 0.087 mm)  
@@ -84,7 +90,7 @@ Residue of cement on the 90-micron IS sieve = ________ %
 
 ---
 
-## Discussion 
+## Discussion (For reference only; not to be written in notebook)
 
 This test determines the amount of coarse particles in cement. For a complete understanding of fineness, specific surface area is considered, measured using:
 1. Air Permeability Method (commonly used)  
