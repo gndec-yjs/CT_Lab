@@ -54,50 +54,55 @@ There are two types:
 
 Water absorption indicates the amount of water the aggregate can absorb and reflects its porosity, affecting the workability and strength of concrete.
 
-**Formulas:**  
-- **Specific Gravity (G)**:  
-  $G = \frac{W_2}{W_2 - W_3}$
+### Formulas:
 
-- **Water Absorption (%)**:  
-  $\text{Water Absorption} = \frac{W_2 - W_1}{W_1} \times 100$
+Specific Gravity (G):
+G = W₂ / (W₂ - W₃)
 
-Where:  
-$W_1$ = weight of oven-dried sample (g)  
-$W_2$ = weight of saturated surface-dry (SSD) sample (g)  
-$W_3$ = weight of pycnometer + sample + water (g)  
-$W_4$ = weight of pycnometer filled with water only (g)
+Water Absorption (%):
+Water Absorption (%) = ((W₂ - W₁) / W₁) × 100
+
+Where:
+
+W₁ = weight of oven-dried sample (g)
+
+W₂ = weight of saturated surface-dry (SSD) sample (g)
+
+W₃ = weight of pycnometer + sample + water (g)
+
+W₄ = weight of pycnometer filled with water only (g)
 
 ---
 
 ## Procedure
-
-1. Take a representative sample of fine aggregates (~500g) and wash it to remove dust and finer particles.
-2. Dry the sample in an oven at 100–110°C for 24 ± 0.5 hours and cool to room temperature.
-3. Immerse the dried sample in water for 24 hours and wipe it to a saturated surface-dry (SSD) condition.
-4. Weigh the SSD sample ($W_2$).
-5. Place the SSD sample into the pycnometer, fill with water up to the mark, and weigh ($W_3$).
-6. Fill the empty pycnometer with water up to the mark and weigh ($W_4$).
-7. Oven dry the sample again and weigh it ($W_1$).
+1. Take a representative sample of fine aggregates (~500 g) and wash it to remove dust and finer particles.  
+2. Dry the sample in an oven at 100–110°C for 24 ± 0.5 hours and cool to room temperature.  
+3. Immerse the dried sample in water for 24 hours and wipe it to a saturated surface-dry (SSD) condition.  
+4. Weigh the SSD sample (`W₂`).  
+5. Place the SSD sample into the pycnometer, fill with water up to the mark, and weigh (`W₃`).  
+6. Fill the empty pycnometer with water up to the mark and weigh (`W₄`).  
+7. Oven dry the sample again and weigh it (`W₁`).  
 8. Calculate specific gravity and water absorption using the recorded weights.
 
 ---
 
 ## Observations and Calculations (Customize the table, as required)
 
-- **Specific Gravity (G)**:  
-  $G = \frac{W_2}{W_2 - W_3}$
-
-- **Water Absorption (%)**:  
-  $\text{Water Absorption} = \frac{W_2 - W_1}{W_1} \times 100$
-
-| Sr. No. | $W_1$ (g) | $W_2$ (g) | $W_3$ (g) | $W_4$ (g) | Specific Gravity | Water Absorption (%) |
-|--------:|----------:|----------:|----------:|----------:|-----------------:|---------------------:|
-| 1       |           |           |           |           |                  |                     |
-| 2       |           |           |           |           |                  |                     |
-| **Avg.**|           |           |           |           |                  |                     |
+| **Material** | |  |
+|:--------------------------|:-----------:|:-----------:|
+| Mass of empty dry flask, W (g) |   |   |
+| Mass of flask + water, W₁ (g) |   |   |
+| Mass of saturated surface dry sample, W₂ (g) |   |   |
+| Mass of flask + sample + water, W₃ (g) |   |   |
+| Mass of empty tray, Wₑ (g) |   |   |
+| Mass of tray + saturated surface dry sample, Wₛ (g) |   |   |
+| Mass of saturated surface dry sample, (Wₛ - Wₑ) = W₄ (g) |   |   |
+| Mass of tray + oven dry sample, Wₒ (g) |   |   |
+| Mass of oven dry sample, (Wₒ - Wₑ) = W₅ (g) |   |   |
+| Bulk specific gravity |   |   |
+| Absorption percentage |   |   |
 
 ---
-
 ## Result
 
 - **Specific Gravity of fine aggregate** = ________  
