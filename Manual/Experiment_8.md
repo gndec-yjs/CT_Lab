@@ -4,7 +4,7 @@
 
 ## Objective
 
-To determine the bulk density of fine and coarse aggregates in both loose and compacted conditions using appropriate cylindrical containers.
+To determine the bulk density of fine and coarse aggregates in both loose and compacted conditions.
 
 ---
 
