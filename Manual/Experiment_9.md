@@ -50,12 +50,8 @@ To determine the fineness modulus (FM) of fine and coarse aggregates.
 
 The fineness modulus (FM) is a measure of the average size of particles in an aggregate sample. It is calculated by adding the cumulative percentages of aggregates retained on each sieve, dividing the sum by 100. The fineness modulus is used to characterize the particle size distribution of fine and coarse aggregates. It helps in selecting the appropriate aggregates for concrete mix design and indicates the type of mix (coarse or fine). 
 
-### **Formula for Fineness Modulus:**
+![image](https://github.com/user-attachments/assets/62ca0af2-5fd2-4fe4-a0bf-7c0ec76b4f72)
 
-Fineness Modulus (FM) = (Sum of the cumulative percentages of aggregates retained on each sieve) ÷ 100
-
-Where:
-- The cumulative percentage is the sum of the percentages of aggregate retained on each sieve.
 
 ---
 
@@ -73,6 +69,9 @@ Where:
    - For each sieve, calculate the percentage of aggregate retained using the formula:
    
      Percentage Retained = (Mass Retained on Sieve ÷ Total Mass of Sample) × 100
+
+     ![image](https://github.com/user-attachments/assets/84b1c3a2-9db5-4a20-bac6-60768a73f9f8)
+
 
    - Calculate the cumulative percentage retained on each sieve, starting from the top sieve (coarse side).
 
@@ -103,6 +102,8 @@ Where:
 | 20                    |                       |                         |                                   |
 | 10                    |                       |                         |                                   |
 | 4.75                  |                       |                         |                                   |
+
+![image](https://github.com/user-attachments/assets/fe88ea71-94a3-4d9e-bfbc-b6b3984c0297)
 
 ---
 
