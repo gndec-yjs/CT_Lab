@@ -88,19 +88,15 @@ W₄ = weight of pycnometer filled with water only (g)
 
 ## Observations and Calculations (Customize the table, as required)
 
-| **Material** | |  |
+| **Material/Observation** | |  |
 |:--------------------------|:-----------:|:-----------:|
-| Mass of empty dry flask, W (g) |   |   |
-| Mass of flask + water, W₁ (g) |   |   |
-| Mass of saturated surface dry sample, W₂ (g) |   |   |
-| Mass of flask + sample + water, W₃ (g) |   |   |
-| Mass of empty tray, Wₑ (g) |   |   |
-| Mass of tray + saturated surface dry sample, Wₛ (g) |   |   |
-| Mass of saturated surface dry sample, (Wₛ - Wₑ) = W₄ (g) |   |   |
-| Mass of tray + oven dry sample, Wₒ (g) |   |   |
-| Mass of oven dry sample, (Wₒ - Wₑ) = W₅ (g) |   |   |
-| Bulk specific gravity |   |   |
-| Absorption percentage |   |   |
+| Mass of empty pycnometer, Wₚ (g) |   |   |
+| Mass of pycnometer + water, W₄ (g) |   |   |
+| Mass of saturated surface dry (SSD) sample, W₂ (g) |   |   |
+| Mass of pycnometer + SSD sample + water, W₃ (g) |   |   |
+| Mass of oven-dried sample, W₁ (g) |   |   |
+| Bulk specific gravity (G) |   |   |
+| Water absorption (%) |   |   |
 
 ---
 ## Result
