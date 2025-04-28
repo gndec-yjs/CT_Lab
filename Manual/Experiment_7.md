@@ -51,15 +51,22 @@ To determine the specific gravity and water absorption of coarse aggregates.
 Specific gravity is the ratio of the mass of an aggregate to the mass of an equal volume of water. It provides valuable information about the quality of the aggregate. The water absorption of aggregates is important as it impacts the workability and strength of the concrete. High absorption can affect the mixture's water content and thus its performance.
 
 **Formulas:**  
-- **Specific Gravity (Bulk)** = \( \frac{W_1}{W_1 - (W_3 - W_2)} \)  
-- **Apparent Specific Gravity** = \( \frac{W_4}{W_4 - (W_3 - W_2)} \)  
-- **Absorption (%)** = \( \frac{W_1 - W_4}{W_4} \times 100 \)  
+
+Specific Gravity (Bulk):
+Specific Gravity (Bulk) = W₁ / (W₁ - (W₃ - W₂))
+
+Apparent Specific Gravity:
+Apparent Specific Gravity = W₄ / (W₄ - (W₃ - W₂))
+
+Absorption (%):
+Absorption (%) = ((W₁ - W₄) / W₄) * 100
+
 
 Where:  
-\( W_1 \) = mass of saturated surface dry sample (g)  
-\( W_2 \) = mass of basket suspended in water (g)  
-\( W_3 \) = mass of material + basket suspended in water (g)  
-\( W_4 \) = mass of oven-dried sample (g)
+W₁ = mass of saturated surface dry sample (g)  
+W₂ = mass of basket suspended in water (g)  
+W₃ = mass of material + basket suspended in water (g)  
+W₄ = mass of oven-dried sample (g)
 
 ---
 
@@ -88,7 +95,7 @@ Where:
 | **Mass of oven dry aggregate in air (W₄)**    |                 |               |
 | **Bulk Specific Gravity (SSD basis)**         |                 |               |
 | **Apparent Specific Gravity**                  |                 |               |
-| **Absorption (%)**                             |                 |               |
+| **Absorption (\%)**                             |                 |               |
 
 ---
 
@@ -124,3 +131,4 @@ The specific gravity of the coarse aggregate reflects its density and quality. H
 - What could be the possible reasons for variation in specific gravity readings?
 
 ---
+
