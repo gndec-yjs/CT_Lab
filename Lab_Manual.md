@@ -12,10 +12,9 @@
 ### Tests on Aggregates  
 #### 🔹[Experiment 6: Determine the specific gravity and water absorption of fine aggregates.](Manual/Experiment_6.md)  
 #### 🔹[Experiment 7: Determine the specific gravity and water absorption of coarse aggregates.](Manual/Experiment_7.md)  
-#### 🔹[Experiment X: Determine the bulk density of aggregates.](Manual/Experiment_X.md)  
-#### 🔹[Experiment 8: Determine the fineness modulus of fine and coarse aggregates.](Manual/Experiment_8.md)  
-#### 🔹[Experiment 9: Determine the moisture content of aggregates.](Manual/Experiment_9.md)  
-#### 🔹[Experiment 10: Determine the water absorption of aggregates.](Manual/Experiment_10.md)  
+#### 🔹[Experiment 8: Determine the bulk density of fine and coarse aggregates.](Manual/Experiment_8.md)  
+#### 🔹[Experiment 9: Determine the fineness modulus of fine and coarse aggregates.](Manual/Experiment_9.md)  
+#### 🔹[Experiment 10: Determine the moisture content of fine and coarse aggregates.](Manual/Experiment_10.md)  
 #### 🔹[Experiment 11: Determine the bulking of sand.](Manual/Experiment_11.md)  
 
 ---
