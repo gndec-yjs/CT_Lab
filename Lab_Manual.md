@@ -10,7 +10,8 @@
 ---
 
 ### Tests on Aggregates  
-#### 🔹[Experiment 6: Determine the specific gravity of fine and coarse aggregates.](Manual/Experiment_6.md)  
+#### 🔹[Experiment 6: Determine the specific gravity of fine aggregates.](Manual/Experiment_6.md)  
+#### 🔹[Experiment 7: Determine the specific gravity of coarse aggregates.](Manual/Experiment_7.md)  
 #### 🔹[Experiment 7: Determine the bulk density of aggregates.](Manual/Experiment_7.md)  
 #### 🔹[Experiment 8: Determine the fineness modulus of fine and coarse aggregates.](Manual/Experiment_8.md)  
 #### 🔹[Experiment 9: Determine the moisture content of aggregates.](Manual/Experiment_9.md)  
