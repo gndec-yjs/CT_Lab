@@ -52,13 +52,10 @@ Specific gravity is the ratio of the mass of an aggregate to the mass of an equa
 
 **Formulas:**  
 
-Specific Gravity (Bulk):
 Specific Gravity (Bulk) = W₁ / (W₁ - (W₃ - W₂))
 
-Apparent Specific Gravity:
 Apparent Specific Gravity = W₄ / (W₄ - (W₃ - W₂))
 
-Absorption (%):
 Absorption (%) = ((W₁ - W₄) / W₄) * 100
 
 
@@ -77,10 +74,10 @@ W₄ = mass of oven-dried sample (g)
 3. Dry the sample to constant mass in an oven at 100–110°C for 24 hours.  
 4. Immerse the sample in water at 22–32°C for 24 ± 0.5 hours.  
 5. After 24 hours, remove the sample from the water and roll it in a towel to remove visible surface water.  
-6. Weigh the sample in its saturated surface dry condition, and record it as \( W_1 \).  
-7. Suspend the sample in the wire basket and immerse it in water. Weigh it again and record it as \( W_3 \).  
+6. Weigh the sample in its saturated surface dry condition, and record it as `W₁`.  
+7. Suspend the sample in the wire basket and immerse it in water. Weigh it again and record it as `W₃`.  
 8. Dry the sample again in the oven at 100–110°C for 24 hours.  
-9. After drying, cool the sample to room temperature and weigh it again. Record this as \( W_4 \).  
+9. After drying, cool the sample to room temperature and weigh it again. Record this as `W₄`.
 
 ---
 
@@ -92,10 +89,10 @@ W₄ = mass of oven-dried sample (g)
 | **Mass of basket suspended in water (W₂)**    |                 |               |
 | **Mass of material + basket suspended in water (W₃)** |           |               |
 | **Mass of aggregate suspended in water (W₃ – W₂)** |             |               |
-| **Mass of oven dry aggregate in air (W₄)**    |                 |               |
+| **Mass of oven-dry aggregate in air (W₄)**    |                 |               |
 | **Bulk Specific Gravity (SSD basis)**         |                 |               |
 | **Apparent Specific Gravity**                  |                 |               |
-| **Absorption (\%)**                             |                 |               |
+| **Absorption (%)**                             |                 |               |
 
 ---
 
@@ -109,7 +106,7 @@ W₄ = mass of oven-dried sample (g)
 
 ## Precautions
 
-- Ensure the mass of the sample is accurate at all stages, and measure to the nearest 0.5 gm.  
+- Ensure the mass of the sample is accurate at all stages, and measure to the nearest 0.5 g.  
 - Clean the wire basket and other apparatus before each use.  
 - The sample should be free of any foreign materials.  
 - Ensure the aggregate is saturated but surface dry during weighing.  
