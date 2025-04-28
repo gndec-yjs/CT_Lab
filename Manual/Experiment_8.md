@@ -44,8 +44,8 @@ Bulk density is used to:
 **Percentage of Voids** = ((G_s - Y) / G_s) * 100
 
 Where:
-- **G_s** is the specific gravity of the aggregate.
-- **Y** is the bulk density of the aggregate.
+- **G_s** is the specific gravity of the aggregate
+- **Y** is the bulk density of the aggregate
 
 ---
 
