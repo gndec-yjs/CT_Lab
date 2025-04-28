@@ -1,5 +1,26 @@
 # Experiment 8: **Determine the Bulk Density of Fine and Coarse Aggregates**
 
+## Notebook Instructions
+
+**Right-hand Side (RHS - single-lined page):**  
+
+Students must write the following in neat handwriting:  
+- Objective  
+- IS Code  
+- Apparatus Required  
+- Theory  
+- Procedure  
+- Precautions  
+- Result
+
+**Left-hand Side (LHS - plain page):**  
+
+Students must include:  
+- Objective  
+- Labelled Diagram (test setup/specimen) or paste relevant photos  
+- Observations and Calculations  
+- Result
+
 ---
 
 ## Objective
