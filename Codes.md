@@ -1,5 +1,8 @@
 # Indian Standard Codes
 
+## The latest IS code can be downloaded from the BIS website after creating an account. For more details, visit [BIS Official Website](https://www.bis.gov.in).
+
+
 #### [List of IS Codes for Material Specifications and Testing](Codes/IS_Codes_List.pdf)
 
 ## Concrete
