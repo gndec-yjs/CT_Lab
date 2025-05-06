@@ -49,7 +49,7 @@ To determine the compressive strength of concrete cubes and cylinders using a co
 
 ## Diagram
 
-*(Insert labelled diagram of CTM with cube and cylinder setup, or paste actual photos from lab testing)*
+![image](https://github.com/user-attachments/assets/b442ab25-7463-4b00-8a9b-3cde0eb962a3)
 
 ---
 
